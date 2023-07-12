@@ -1,0 +1,31 @@
+.flex {
+  display: flex;
+}
+
+.menu-button {
+   
+    background-color: #B56A85;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 4px;
+    height: min-content;
+    cursor: pointer;
+    width: min-content;
+ 
+}
+  .menu-button:hover {
+    background-color:   #851a3f ;
+  }
+ 
+
+.sidebar-container {
+  padding-top: 20px;
+
+  /* // Add any other custom styles for the sidebar container here */
+}
+
+.flow-root {
+  display: block;
+}
